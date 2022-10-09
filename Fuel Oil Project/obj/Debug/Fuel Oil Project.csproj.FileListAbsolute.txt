@@ -1,0 +1,8 @@
+C:\Users\serha\OneDrive\Masaüstü\PROJELERİM\C#\Fuel Oil Project\Fuel Oil Project\bin\Debug\Fuel Oil Project.exe.config
+C:\Users\serha\OneDrive\Masaüstü\PROJELERİM\C#\Fuel Oil Project\Fuel Oil Project\bin\Debug\Fuel Oil Project.exe
+C:\Users\serha\OneDrive\Masaüstü\PROJELERİM\C#\Fuel Oil Project\Fuel Oil Project\bin\Debug\Fuel Oil Project.pdb
+C:\Users\serha\OneDrive\Masaüstü\PROJELERİM\C#\Fuel Oil Project\Fuel Oil Project\obj\Debug\Fuel Oil Project.csproj.AssemblyReference.cache
+C:\Users\serha\OneDrive\Masaüstü\PROJELERİM\C#\Fuel Oil Project\Fuel Oil Project\obj\Debug\Fuel Oil Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\serha\OneDrive\Masaüstü\PROJELERİM\C#\Fuel Oil Project\Fuel Oil Project\obj\Debug\Fuel Oil Project.csproj.CoreCompileInputs.cache
+C:\Users\serha\OneDrive\Masaüstü\PROJELERİM\C#\Fuel Oil Project\Fuel Oil Project\obj\Debug\Fuel Oil Project.exe
+C:\Users\serha\OneDrive\Masaüstü\PROJELERİM\C#\Fuel Oil Project\Fuel Oil Project\obj\Debug\Fuel Oil Project.pdb
